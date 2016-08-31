@@ -1,0 +1,188 @@
+
+<!doctype html>
+<html lang="en-US">
+  <head><link rel="stylesheet" type="text/css" href="http://ahcivic.org/wp-content/cache/minify/000000/M9B39HB21E_JLC7RLy6pzEkt1s9NzMwDAA.css" media="all" />
+
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href='https://fonts.googleapis.com/css?family=Allan:700' rel='stylesheet' type='text/css'>
+  <title>Committees Page &#8211; Archer Heights Civic Organization</title>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/ahcivic.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+
+<script type="text/javascript" src="http://ahcivic.org/wp-content/cache/minify/000000/M9bPKixNLarUMYYydHMz04sSS1L1cjPzAA.js"></script>
+<link rel='https://api.w.org/' href='http://ahcivic.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ahcivic.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ahcivic.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.3" />
+<link rel="canonical" href="http://ahcivic.org/committees-page/" />
+<link rel='shortlink' href='http://ahcivic.org/?p=14' />
+<link rel="alternate" type="application/json+oembed" href="http://ahcivic.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fahcivic.org%2Fcommittees-page%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://ahcivic.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fahcivic.org%2Fcommittees-page%2F&#038;format=xml" />
+  <script type="text/javascript">
+    var templateDir = "http://ahcivic.org/wp-content/themes/AHCA";
+  </script>
+</head>
+  <body class="page page-id-14 page-template page-template-template-committees page-template-template-committees-php committees-page">
+    <!--[if IE]>
+      <div class="alert alert-warning">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+    <header class="banner">
+  <nav class="navbar">
+    <div class="container-fluid">
+      <img id="siteTitle" src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/siteTitle.png">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle hamButton" data-toggle="collapse" data-target="#myNavbar">
+          <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/menu.png">
+        </button>
+        <div id="logoContainer">
+          <a href="/">
+            <img class="center-block" src="" id="logo">
+          </a>
+        </div>
+      </div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav ulMenu">
+          <li><a href="/">HOME</a></li>
+          <li><a href="/about-page">ABOUT</a></li>
+          <li><a href="/awards-page">AWARDS</a></li>
+          <li><a href="committees-page">COMMITTEES</a></li> 
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">EVENTS<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="/group-events-page">GROUP EVENTS</a></li>
+              <li><a href="/speakers-page">SPEAKERS</a></li>
+            </ul>
+          </li>
+          <li><a href="/contact-page">CONTACT US</a></li> 
+        </ul>
+        <ul class="nav navbar-nav navbar-right" id="memberButtonUl">
+            <button><a href="/membership-page">BECOME A MEMBER</a></button>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+    <div class="wrap" role="document">
+      <div class="content row">
+        <main class="main">
+          <div id="page4" class="comtainer-fluid">
+    <div class="row">
+        <div class="col-sm-10 comm infoLeft">
+            <h1>Daytime Graffiti Team Committee</h1>
+            <p>The Archer Heights Civic Association Daytime Graffiti Team was created in 2006 as an offshoot of the Archer Heights Civic Association Neighborhood Watch and ever since has been the eyes of the community reporting all incidents of graffiti. The Team has at various times had five to six members canvassing the neighborhood in two cars. Currently we have a dauntless team of three members that each Monday canvasses the community (every residential alley, commercial building and factory), records and reports any newly discovered graffiti and follows for the removal of tagging from previously reported locations.</p>
+            <button class="center-block buttonstyle"><a href="http://ahcivic.org/wp-content/themes/AHCA/dist/images/committeesPDF/Content - Daytime Graffiti Team Committee.pdf" target="_blank">Read Full Docs</a></button>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-sm-10 col-sm-offset-2 comm infoRight">
+            <h1>Government & Legislation Committee</h1>
+            <p>The principle function of this committee is to review the Chicago City Council Journal of Proceedings & Legislative Index and report to the membership any and all ordinances submitted that pertain to or affect the Archer Heights community. All actions regarding changes of zoning, building codes, establishment of traffic signs and regulations, city budget, taxes, vacating of streets and/or alleys, establishing fines & penalties, sale or lease of city property, appointment of City commissioners, settlement of any lawsuits, creation of honorary street names and basically all actions that affect everyday citizen life must be submitted to the full Chicago City Council and voted upon. The Journal also reflects what ordinances are assigned to which committee for public hearing. The committee will also track the status of pertinent ordinances from introduction to committee assignment to schedule of full Council vote.</p>
+            <button class="center-block buttonstyle"><a href="http://ahcivic.org/wp-content/themes/AHCA/dist/images/committeesPDF/Content - Gov & Leg Comm..pdf" target="_blank">Read Full Docs</a></button>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-sm-10 comm infoLeft">
+            <h1>Hospitality Committee</h1>
+            <p>The Hospitality Committee handles the donation of baked goods and set up of our “goody” table for each of our monthly general membership meetings. They also ensure that we have enough baked goods, hot coffee, cream, sugar, plates, cups, napkins and utensils for each meeting so that our members can enjoy a light refreshment after the meeting. Our Hospitality Committee currently consists of the smiling faces of: Lucy Lewner – Chairperson, Kathy Esposito, Rita Harazin, Ann Lihosit and Ray Lytis</p>
+            <button class="center-block buttonstyle"><a href="http://ahcivic.org/wp-content/themes/AHCA/dist/images/committeesPDF/Content - Hospitality Committee.pdf" target="_blank">Read Full Docs</a></button>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-sm-10 col-sm-offset-2 comm infoRight">
+            <h1>Newsletter Mailing Committee</h1>
+            <p>Our Newsletter Mailing Committee meets once each month to process the mailing of our monthly newsletter along with any special inserts and dues return envelopes that may be needed.  With a membership of over 800 addresses, of which 750 are residential and 50 are commercial businesses and industry, this is no small task.  However, our efficient team of volunteers completes the process in less than two hours.</p>
+            <button class="center-block buttonstyle"><a href="http://ahcivic.org/wp-content/themes/AHCA/dist/images/committeesPDF/Content - Mailing Committee.pdf" target="_blank">Read Full Docs</a></button>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-sm-10 comm infoLeft">
+            <h1>Membership Chair</h1>
+            <p>Our Membership Chair receives and records all incoming dues for our civic association; tracks and assigns a unique number to each new individual, family, business or industry member; issues membership cards; prepares a cash transmittal form and conveys all dues payments to our Treasurer; inputs all membership information to our computer and generates the labels used for our monthly newsletter mailing. The Membership Chair also makes a report of new members at each of our monthly general membership meetings; publishes all new member names and address information in our monthly newsletter and reports to the Association President the receipt of any donations for our “Walkabout” Membership Recruitment Fund. The handling of incoming funds is a function of high trust. Therefore the Membership Chair is a key Board of Director Position who maintains and ensures the integrity of our membership records.</p>
+            <button class="center-block buttonstyle"><a href="http://ahcivic.org/wp-content/themes/AHCA/dist/images/committeesPDF/Content - Membership Chair.pdf" target="_blank">Read Full Docs</a></button>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-sm-10 col-sm-offset-2 comm infoRight">
+            <h1>Police, CAPS &amp; Community Relations Committee</h1>
+            <p>The Archer Heights Civic Association has had, and continues to have, a long standing positive working relationship with both the police officers and Commander of the 8 th Police District and we are active participants in what is popularly known as CAPS. CAPS, the Chicago Alternative Policing Strategy Program, was started in a few select police districts in 1993 and was expanded to all of the City of Chicago’s 25 police districts in 1994. It is the successor program to the community originated Police Beat Representative Program that was started in 1977.<br><br>The goal of the CAPS program is to encourage community members and police to work together to prevent or reduce incidents of crime in the community by increasing the lines of communication between the police and residents at monthly CAPS meetings held in each Chicago community neighborhood.</p>
+            <button class="center-block buttonstyle"><a href="http://ahcivic.org/wp-content/themes/AHCA/dist/images/committeesPDF/Content-CAPS Committee-3.pdf" target="_blank">Read Full Docs</a></button>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-sm-10 comm infoLeft">
+            <h1>Publicity Chair</h1>
+            <p>In an ongoing effort to reach out to people of the Archer Heights community who may not be current dues paid members of our civic association, the Publicity Chair handles the release of notices of each of our monthly general membership meetings and any special meetings and is an active member of the civic association Board of Directors. Each month details of our current upcoming meetings are conveyed to all southwest side newspapers, electronic media and the two Catholic Churches of St. Richard and St. Bruno in the Archer Heights community. The weekly southwest side newspapers publish our meeting notices one week prior to each meeting and the Catholic churches publish our meeting notices in their church bulletins the Sunday before each of our monthly meetings and also make announcement of our meeting at the end of each Sunday Mass.</p>
+            <button class="center-block buttonstyle"><a href="http://ahcivic.org/wp-content/themes/AHCA/dist/images/committeesPDF/Content - Publicity Chair.pdf" target="_blank">Read Full Docs</a></button>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-sm-10 col-sm-offset-2 comm infoRight">
+            <h1>Sunshine Lady</h1>
+            <p>Each and every one of our civic association members is important to the continuity of our neighborhood group and to express our civic association’s collective greetings or sympathy on life’s events, the position of “Sunshine Lady” was established over fifty years ago. Our “Sunshine Lady” is basically a committee of one person who handles the sending out of greeting cards to our association members who are celebrating milestone birthdays of 40, 50, 60, 70, 80, 90 years and above. We also send out congratulatory greeting cards to couples celebrating milestone wedding anniversaries. For our members who may be temporarily laid up in a hospital, intermediate care facility, or at home, we send a “Get Well” greeting card in the hope of bringing a little “Sunshine” into their lives. On the event of the passing of a current dues paid member of our civic association, we also send a condolence card to the surviving spouse along with a $10.00 bereavement memorial donation. The memorial donation can be made to one of our local churches or a charity of choice.</p>
+            <button class="center-block buttonstyle"><a href="http://ahcivic.org/wp-content/themes/AHCA/dist/images/committeesPDF/Content - Sunshine Lady.pdf" target="_blank">Read Full Docs</a></button>
+        </div>
+    </div>
+    
+</div>        </main><!-- /.main -->
+              </div><!-- /.content -->
+    </div><!-- /.wrap -->
+    <footer class="content-info container-fluid text-center">
+    <!--title row-->
+    <div class="row" id="titleRow">
+        <h3 class="center-block">A H C A</h3>
+    </div>
+    <!--page row-->
+    <div class="row" id="pageRow">
+        <h5><a href="/about-page">About Us</a></h5>
+        <h5><a href="/community-resources-page">Community Resources</a></h5>
+        <h5><a href="/contact-page">Contact Us</a></h5>
+    </div>
+    <!--flag row-->
+    <div class="row" id="flagRow">
+        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/chiflag.png">
+        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/usflag.png">
+    </div>
+    <!--copyright row-->
+    <div class="row" id="lawRow">
+        <h6>Copyright 2016 &copy; All Rights Reserved.</h6>
+    </div>
+</footer>
+<script type="text/javascript" src="http://ahcivic.org/wp-content/cache/minify/000000/M9B39HB21E_JLC7RL04uyiwoKdbPTczM0zHRLy_QTc1NSk3Ry83MAwA.js"></script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk: enhanced
+Database Caching 2/6 queries in 0.003 seconds using disk
+Object Caching 460/467 objects using disk
+Content Delivery Network via N/A
+Application Monitoring using New Relic
+
+ Served from: ahcivic.org @ 2016-08-11 19:55:34 by W3 Total Cache -->

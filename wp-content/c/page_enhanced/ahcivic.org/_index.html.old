@@ -1,0 +1,185 @@
+
+<!doctype html>
+<html lang="en-US">
+  <head><link rel="stylesheet" type="text/css" href="http://ahcivic.org/wp-content/cache/minify/000000/M9B39HB21E_JLC7RLy6pzEkt1s9NzMwDAA.css" media="all" />
+
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href='https://fonts.googleapis.com/css?family=Allan:700' rel='stylesheet' type='text/css'>
+  <title>Archer Heights Civic Organization &#8211; temp</title>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/ahcivic.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+
+<script type="text/javascript" src="http://ahcivic.org/wp-content/cache/minify/000000/M9bPKixNLarUMYYydHMz04sSS1L1cjPzAA.js"></script>
+<link rel='https://api.w.org/' href='http://ahcivic.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ahcivic.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ahcivic.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.3" />
+<link rel="canonical" href="http://ahcivic.org/" />
+<link rel='shortlink' href='http://ahcivic.org/' />
+<link rel="alternate" type="application/json+oembed" href="http://ahcivic.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fahcivic.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://ahcivic.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fahcivic.org%2F&#038;format=xml" />
+  <script type="text/javascript">
+    var templateDir = "http://ahcivic.org/wp-content/themes/AHCA";
+  </script>
+</head>
+  <body class="home page page-id-2 page-template-default">
+    <!--[if IE]>
+      <div class="alert alert-warning">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+    <header class="banner">
+  <nav class="navbar">
+    <div class="container-fluid">
+      <img id="siteTitle" src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/siteTitle.png">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle hamButton" data-toggle="collapse" data-target="#myNavbar">
+          <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/menu.png">
+        </button>
+        <div id="logoContainer">
+          <a href="/">
+            <img class="center-block" src="" id="logo">
+          </a>
+        </div>
+      </div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav ulMenu">
+          <li><a href="/">HOME</a></li>
+          <li><a href="/about-page">ABOUT</a></li>
+          <li><a href="/awards-page">AWARDS</a></li>
+          <li><a href="committees-page">COMMITTEES</a></li> 
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">EVENTS<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="/group-events-page">GROUP EVENTS</a></li>
+              <li><a href="/speakers-page">SPEAKERS</a></li>
+            </ul>
+          </li>
+          <li><a href="/contact-page">CONTACT US</a></li> 
+        </ul>
+        <ul class="nav navbar-nav navbar-right" id="memberButtonUl">
+            <button><a href="/membership-page">BECOME A MEMBER</a></button>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+    <div class="wrap" role="document">
+      <div class="content row">
+        <main class="main">
+          <div id="page1master">
+    <!--jumbotron row-->
+    <div class="row">
+        <div id="jumbotron">
+            <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/newcaption.png" id="caption">
+            <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/downArrow.png" id="arrowImg" class="hidden-xs">
+        </div>
+    </div>  
+    <!--what we do row-->
+    <div class="row" id="aboutRow">
+        <div class="col-sm-12">
+            <div class="imgHelper hidden-sm hidden-xs">
+            </div>
+            <h2 class="text-center">WHO WE ARE</h2>
+            <p id="fontsize">The Archer Heights Civic Association (AHCA) is an all volunteer, nonprofit, non-political group of homeowners, renters, businessmen and women and industry united by the common bond of keeping the neighborhood safe for all residents, protecting the property values of the community and addressing any major issues which affect the quality of life in our neighborhood. As such, our civic association is very active in matters involving building code compliance, property zoning, beautification and crime prevention. We work with the 8 th Police District and the Chicago Alternative Policing Strategy (CAPS) to publicize procedures and programs of crime prevention, homeowner, renter and business safety, and also personal safety.</p>
+            <div class="imgHelper visible-sm visible-xs">
+                
+            </div>
+        </div>
+    </div>
+    <!--major accomplishments row-->
+    <div class="majorAccomplishments">
+        <div class="row text-center">
+            <h3>LISTING OF SOME OF OUR MAJOR ACCOMPLISHMENTS</h3>
+        </div>
+        <div class="row text-center">
+            <div class="col-sm-4 box">
+
+                <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/zone.png" class="text-center" class="img-responsive">
+                <p class="textbox">Involvement in building and zoning issues throughout the community to protect our neighborhood.</p>
+            </div>
+            
+            <div class="col-sm-4 box">
+                <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/firetruck.png" class="text-center" class="img-responsive">
+                <p class="textbox">Building of the firehouse on 47th Street at Komensky Ave.</p>
+            </div>
+            
+            <div class="col-sm-4 box">
+                <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/park.png" class="text-center" class="img-responsive">
+                <p class="textbox">Building of Archer Park and the field house. </p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="majorAccomplishments" id="majoraccomplishmentslast">
+        <div class="row text-center">
+            <div class="col-sm-4 box">
+                <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/library.png" class="text-center" class="img-responsive">
+                <p class="textbox">Establishment of the Archer Branch Library and building of the new facility on Archer Avenue.</p>
+            </div>
+            
+            <div class="col-sm-4 box">
+                <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/bus.png" class="text-center" class="img-responsive">
+                <p class="textbox">Defeat of a proposed Greyhound Bus Station on Pulaski Rd.</p>
+            </div>
+            
+            <div class="col-sm-4 box">
+                <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/postal.png" class="text-center" class="img-responsive" >
+                <p class="textbox">A 1 ½ year campaign to stop the building of a U.S. Postal processing plant at 47th & Kilbourn Ave.</p>
+            </div>
+        </div>
+    </div>
+</div>        </main><!-- /.main -->
+              </div><!-- /.content -->
+    </div><!-- /.wrap -->
+    <footer class="content-info container-fluid text-center">
+    <!--title row-->
+    <div class="row" id="titleRow">
+        <h3 class="center-block">A H C A</h3>
+    </div>
+    <!--page row-->
+    <div class="row" id="pageRow">
+        <h5><a href="/about-page">About Us</a></h5>
+        <h5><a href="/community-resources-page">Community Resources</a></h5>
+        <h5><a href="/contact-page">Contact Us</a></h5>
+    </div>
+    <!--flag row-->
+    <div class="row" id="flagRow">
+        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/chiflag.png">
+        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/usflag.png">
+    </div>
+    <!--copyright row-->
+    <div class="row" id="lawRow">
+        <h6>Copyright 2016 &copy; All Rights Reserved.</h6>
+    </div>
+</footer>
+<script type="text/javascript" src="http://ahcivic.org/wp-content/cache/minify/000000/M9B39HB21E_JLC7RL04uyiwoKdbPTczM0zHRLy_QTc1NSk3Ry83MAwA.js"></script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk: enhanced
+Database Caching using disk
+Object Caching 493/517 objects using disk
+Content Delivery Network via N/A
+Application Monitoring using New Relic
+
+ Served from: ahcivic.org @ 2016-08-11 22:46:27 by W3 Total Cache -->

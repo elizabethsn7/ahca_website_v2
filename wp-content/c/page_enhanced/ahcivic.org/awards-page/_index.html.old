@@ -1,0 +1,338 @@
+
+<!doctype html>
+<html lang="en-US">
+  <head><link rel="stylesheet" type="text/css" href="http://ahcivic.org/wp-content/cache/minify/000000/M9B39HB21E_JLC7RLy6pzEkt1s9NzMwDAA.css" media="all" />
+
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href='https://fonts.googleapis.com/css?family=Allan:700' rel='stylesheet' type='text/css'>
+  <title>Awards Page &#8211; Archer Heights Civic Organization</title>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/ahcivic.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+
+<script type="text/javascript" src="http://ahcivic.org/wp-content/cache/minify/000000/M9bPKixNLarUMYYydHMz04sSS1L1cjPzAA.js"></script>
+<link rel='https://api.w.org/' href='http://ahcivic.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ahcivic.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ahcivic.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.3" />
+<link rel="canonical" href="http://ahcivic.org/awards-page/" />
+<link rel='shortlink' href='http://ahcivic.org/?p=12' />
+<link rel="alternate" type="application/json+oembed" href="http://ahcivic.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fahcivic.org%2Fawards-page%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://ahcivic.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fahcivic.org%2Fawards-page%2F&#038;format=xml" />
+  <script type="text/javascript">
+    var templateDir = "http://ahcivic.org/wp-content/themes/AHCA";
+  </script>
+</head>
+  <body class="page page-id-12 page-template page-template-template-awards page-template-template-awards-php awards-page">
+    <!--[if IE]>
+      <div class="alert alert-warning">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+    <header class="banner">
+  <nav class="navbar">
+    <div class="container-fluid">
+      <img id="siteTitle" src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/siteTitle.png">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle hamButton" data-toggle="collapse" data-target="#myNavbar">
+          <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/menu.png">
+        </button>
+        <div id="logoContainer">
+          <a href="/">
+            <img class="center-block" src="" id="logo">
+          </a>
+        </div>
+      </div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav ulMenu">
+          <li><a href="/">HOME</a></li>
+          <li><a href="/about-page">ABOUT</a></li>
+          <li><a href="/awards-page">AWARDS</a></li>
+          <li><a href="committees-page">COMMITTEES</a></li> 
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">EVENTS<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="/group-events-page">GROUP EVENTS</a></li>
+              <li><a href="/speakers-page">SPEAKERS</a></li>
+            </ul>
+          </li>
+          <li><a href="/contact-page">CONTACT US</a></li> 
+        </ul>
+        <ul class="nav navbar-nav navbar-right" id="memberButtonUl">
+            <button><a href="/membership-page">BECOME A MEMBER</a></button>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+    <div class="wrap" role="document">
+      <div class="content row">
+        <main class="main">
+          <div id="page3master">
+    <div class="row" id="firstrow">
+        <div class="col-sm-4 col-md-5 col-lg-6" id="titleBlock">
+            <h1 class="text-center">House Beautiful Awards<br>Recipients</h1>
+            <h2 class="text-center">2015</h2>
+        </div>
+    
+        <div class="col-sm-8 col-md-7 col-lg-6 floatright">
+            <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="8000">
+                
+            
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/House 2015/House1.jpg">
+                        <div class="captionpadding">
+                            <caption>4745 S. Kilpatrick Ave</caption>
+                        </div>
+                    </div>
+                
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/House 2015/House2.jpg">
+                        <div class="captionpadding">
+                            <caption>4609 S. Kedvale Ave</caption>
+                        </div>
+                    </div>
+                
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/House 2015/House3.jpg">
+                        <div class="captionpadding">
+                            <caption>4511 S. Springfield Ave</caption>
+                        </div>
+                    </div>
+                
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/House 2015/House4.jpg">
+                        <div class="captionpadding">
+                            <caption>4615 S. Harding Ave</caption>
+                        </div>
+                    </div>
+                
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/House 2015/House5.jpg">
+                        <div class="captionpadding">
+                            <caption>4733 S. Kilpatrick Ave</caption>
+                        </div>
+                    </div>
+                    
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/House 2015/House6.jpg">
+                        <div class="captionpadding">
+                            <caption>5217 S. Kolin Ave</caption>
+                        </div>
+                    </div>
+                    
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/House 2015/House7.jpg">
+                        <div class="captionpadding">
+                            <caption>5158 S. Tripp Ave</caption>
+                        </div>
+                    </div>
+                    
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/House 2015/House8.jpg">
+                        <div class="captionpadding">
+                            <caption>5211 S. Kilpatrick Ave</caption>
+                        </div>
+                    </div>
+                    
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/House 2015/House9.jpg">
+                        <div class="captionpadding">
+                            <caption>5211 S. Kaptrick</caption>
+                        </div>
+                    </div>
+                    
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/House 2015/House10.jpg">
+                        <div class="captionpadding">
+                            <caption>4715 S. Kilpatrick Ave</caption>
+                        </div>
+                    </div>
+                    
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/House 2015/House11.jpg">
+                        <div class="captionpadding">
+                            <caption>4923 S. Keating Ave</caption>
+                        </div>
+                    </div>
+                
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/House 2015/House12.jpg">
+                        <div class="captionpadding">
+                            <caption>4925 S. Keating Ave</caption>
+                        </div>
+                    </div>
+                
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/House 2015/House13.jpg">
+                        <div class="captionpadding">
+                            <caption>4816 S. Harding Ave</caption>
+                        </div>
+                    </div>
+                
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/House 2015/House14.jpg">
+                        <div class="captionpadding">
+                            <caption>4628 S. Kilpatrick Ave</caption>
+                        </div>
+                    </div>
+                
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/House 2015/House15.jpg">
+                        <div class="captionpadding">
+                            <caption>4736 S. Knox Ave</caption>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+    <div class="row" id="secondrow">
+        <h3 class="text-center">ABOUT THE HOUSE BEAUTIFUL AWARDS</h3>
+        <p class="text-center">The House Beautiful Awards created in 2011 and first given in that year were established as a biannual event to recognize the outstanding effort of homeowners who maintain their overall property thereby enhancing the quality of life in Archer Heights and increasing the desirability of homes and buildings in our community. 
+        </p>
+        <button class="center-block buttonstyle"><a href="http://ahcivic.org/wp-content/themes/AHCA/dist/images/committeesPDF/Content - House Beautiful Awards.pdf" target="_blank">Read Full Docs</a></button>
+    </div>
+    <div class="row" id="thirdrow">
+        
+        <div class="col-sm-4 col-md-5 col-lg-5 visible-xs">
+            <h1 class="text-center">Junior Citizens Awards</h1>
+            <h2 class="text-center">2014</h2>
+        </div>
+        
+        <div class="col-sm-8 col-md-7 col-lg-6 floatright">
+            <div id="myCarousel2" class="carousel slide" data-ride="carousel" data-interval="8000">
+                
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/Junior Citizens Award/DSC03590.JPG" alt="A generic square placeholder image with rounded corners in a figure.">
+                        <div class="captionpadding">
+                            <caption>Juan Carlos Paez, Parents – Juan & Elizabeth</caption>
+                        </div>
+                    </div>
+                
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/Junior Citizens Award/DSC03593.JPG">
+                        <div class="captionpadding">
+                            <caption>Rene Valtierra, Parents – Rene Valtierra & Lorraine Sandoval</caption>
+                        </div>
+                    </div>
+                
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/Junior Citizens Award/DSC03594.JPG">
+                        <div class="captionpadding">
+                            <caption>Javiar Rosado, Parents – Javiar & Elizabeth</caption>
+                        </div>
+                    </div>
+                
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/Junior Citizens Award/DSC03597.JPG">
+                        <div class="captionpadding">
+                            <caption>Alicia Pimentel, Parents - Nancy & Carmelo Pimentel</caption>
+                        </div>
+                    </div>
+                    
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/Junior Citizens Award/DSC03599.JPG">
+                        <div class="captionpadding">
+                            <caption>Adrian Ortiz, Parents - Oscar & Imelda Buzo</caption>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/Junior Citizens Award/DSC03601.JPG">
+                        <div class="captionpadding">
+                            <caption>2014 JCA Recipients Group Photo</caption>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    
+            <!-- Left and right controls -->
+            <a class="left carousel-control" href="#myCarousel2" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel2" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+        <div class="col-sm-4 col-md-5 col-lg-6 hidden-xs" id="floatright">
+            <h1 class="text-center">Junior Citizens Awards</h1>
+            <h2 class="text-center">2014</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div id="fourthrow">
+            <h3 class="text-center">ABOUT THE JUNIOR CITIZENS AWARDS</h3>
+            <p class="text-center">The Archer Heights Civic Association Junior Citizens Award was established in 1979 to recognize the outstanding school spirit and civic participation of one student of the graduating class at each of the five grammar schools in our community.  This award, consisting of a certificate of merit and cash award of $100, is presented to a student who is actively involved in the greater community of Archer Heights which carries forward to include the schools and churches in our community.  The recipient is selected at the discretion of the school principal and faculty in consultation with the President of the Archer Heights Civic Association.  The awards are presented at the graduation ceremony, luncheon or school assembly.
+            </p>
+        </div>   
+    </div>
+
+</div>        </main><!-- /.main -->
+              </div><!-- /.content -->
+    </div><!-- /.wrap -->
+    <footer class="content-info container-fluid text-center">
+    <!--title row-->
+    <div class="row" id="titleRow">
+        <h3 class="center-block">A H C A</h3>
+    </div>
+    <!--page row-->
+    <div class="row" id="pageRow">
+        <h5><a href="/about-page">About Us</a></h5>
+        <h5><a href="/community-resources-page">Community Resources</a></h5>
+        <h5><a href="/contact-page">Contact Us</a></h5>
+    </div>
+    <!--flag row-->
+    <div class="row" id="flagRow">
+        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/chiflag.png">
+        <img src="http://ahcivic.org/wp-content/themes/AHCA/dist/images/usflag.png">
+    </div>
+    <!--copyright row-->
+    <div class="row" id="lawRow">
+        <h6>Copyright 2016 &copy; All Rights Reserved.</h6>
+    </div>
+</footer>
+<script type="text/javascript" src="http://ahcivic.org/wp-content/cache/minify/000000/M9B39HB21E_JLC7RL04uyiwoKdbPTczM0zHRLy_QTc1NSk3Ry83MAwA.js"></script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk: enhanced
+Database Caching 4/7 queries in 0.004 seconds using disk
+Object Caching 516/525 objects using disk
+Content Delivery Network via N/A
+Application Monitoring using New Relic
+
+ Served from: ahcivic.org @ 2016-08-11 19:55:32 by W3 Total Cache -->
