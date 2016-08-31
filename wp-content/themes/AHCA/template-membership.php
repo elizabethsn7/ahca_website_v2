@@ -36,7 +36,7 @@
             <h3>HOW TO SUBMIT APPLICATION</h3>
             <p class="text-justify" id="font">A downloadable copy of our Membership Application/Dues Payment form is attached.  Currently you must pay in person at a general membership meeting or remit payment by regular U. S. mail as we do not yet have an online capability to accept payment.  This form is used both for annual dues remittance and new member application. Our civic association welcomes all new members who fulfill the basic membership requirements.  We look forward to meeting you in person at our general membership meetings. We invite our current dues paid members to make contributions to our Walkabout program and if you would like to coordinate a Walkabout for your block, please contact our civic association by calling our office at 773-843-2232 and leave a message on our office answering machine or use the “Contact Us Box” in this website.</p>
             <!--<form method="get" action="photos/membershipform.jpg">-->
-            <a href="<?php bloginfo('template_directory');?>/dist/images/membershipform.jpg">
+            <a href="photos/membershipform.jpg">
                 <button type="submit" formtarget="_blank">DOWNLOAD APPLICATION</button> 
             </a>
             
@@ -50,7 +50,7 @@
         <div class="col-xs-12">
             <h3>ABOUT THE WALKABOUT PROGRAM</h3>
             <p class="text-justify">In response to those of our current members who wanted to help our civic association to grow by recruiting new members, we instituted our Walkabout Membership Recruitment Program whereby an existing member can donate a $15.00 membership (or multiple thereof) for a new person/family to join our civic association. In turn we select a target block in our community and civic association President – Thomas S. Baliga, along with Vice President - Michael Kovac, Board Member - Juanita Beltran and a current association member of the targeted block, then walk the block recruiting new members from those neighbors who have never been a member of the Archer Heights Civic Association.</p>
-            <a href="<?php bloginfo('template_directory');?>/dist/images/committeesPDF/Content - Membership Walkabout.pdf">
+            <a href="photos/committeesPDF/Content - Membership Walkabout.pdf">
                 <button type="submit" formtarget="_blank">READ FULL DOC</button> 
             </a>
             

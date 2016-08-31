@@ -1,0 +1,48 @@
+#page9master{
+    background: #e2e1e0;
+    a{
+        color: #001970;
+        cursor: pointer;
+        word-wrap: break-word;
+    }
+    h4{
+        font-size: 22px;
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+    .linkRow{
+        margin: 50px 30px;
+        padding: 0 20px 60px 20px ;
+        background: #44d474;
+        border-radius:20px;
+        color: white;
+        h3{
+            padding-top:20px;
+            padding-bottom:20px;
+        }
+        .phoneNumber{
+            color: #001970;
+        }
+        .ulStyling{
+            font-size: 16px;
+            li{
+                margin-top: 10px; 
+                margin-bottom: 10px;
+            }
+            .subBullet{
+                margin-left: 20px;
+                font-size: 14px;
+                
+            }
+        }
+        @media screen and (max-width: $small){
+            padding: 0 7px 15px 7px;
+            margin-left: 0;
+            margin-right: 0;
+            .ulStyling{
+                padding-left: 10px;
+            }
+        }
+    }
+    
+}

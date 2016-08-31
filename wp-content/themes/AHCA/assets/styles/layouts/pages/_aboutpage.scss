@@ -1,0 +1,93 @@
+#page2 {
+    
+    p{
+        font-size: 18px;
+    }
+    .carousel-inner > .item {
+    -webkit-transition: 15s ease-in-out left;
+    -moz-transition: 15s ease-in-out left;
+    -o-transition: 15s ease-in-out left;
+    transition: 15s ease-in-out left;
+    }
+    #caption{
+        text-align: center;
+        font-size: 14px;
+        height: 120px;
+        padding: 0 10px;
+    }
+    .title{
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    // temp removed at tom's request
+    // #mission {
+    //     background: url("../photos/missionBackground.png");
+    //     background-position: 50% 50%;
+    //     background-size: cover;
+    //     color: white;
+    //     padding: 40px;
+    //     #innerFrame{
+    //         border: 3px solid white;
+    //         padding: 0 20px 20px 20px;
+    //     }
+   
+    // }
+
+    #history {
+        color: #5b5b5b;
+        padding: 30px 25px 80px;
+        
+        .rightHis{
+            padding-right: 70px;
+            text-align: justify;
+        }
+        .leftHis{
+            padding-left: 70px;
+            text-align: justify;
+        }
+        .dot{
+            margin-top:50px;
+            margin-bottom:50px;
+        }
+       .year{
+           padding-top: 50px;
+       }
+      @media screen and (max-width: $small){
+          .rightHis{
+              padding-right: 0;
+              padding-left: 10px;
+          }
+          .leftHis{
+              padding-left: 10px;
+          }
+          .year{
+              padding-top: 0;
+              margin-top: 0;
+              margin-bottom: 40px;
+          }
+      }
+    }
+    #presidents {
+        background: #454654;
+        color: white;
+        img{
+            margin-bottom: 20px;
+        }
+        .president{
+            margin-bottom: 60px;
+        }
+    
+    }
+    
+    #carouselspace{
+        padding-bottom: 80px;
+        
+        .historicalphoto{
+            width: 100%;
+            max-height: 400px;
+        }
+        
+    }
+    
+    
+}

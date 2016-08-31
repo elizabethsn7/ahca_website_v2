@@ -1,0 +1,55 @@
+#page6master{
+    background-color: #f2f2f2;
+    padding-top: 40px;
+    padding-bottom: 100px;
+    
+    @media screen and (max-width: $xsmall){
+        padding-top: 0;
+    }
+        #formCont{
+            padding: 40px 60px;
+            h1{
+                font-size: 19.5px;
+                color: #008000;
+                margin-bottom: 30px;
+            }
+            .contactForm{
+                label{
+                    display: block;
+                }
+                input, textarea {
+                    min-width: 100%;
+                    margin-bottom: 10px;
+                    
+                }
+                
+                //contact form 7 class
+                .wpcf7-submit{
+                    width: 100px;
+                    clear: both;
+                }
+            }
+            
+            
+        }
+        h6{
+            color: black;
+            font-size: 15px;
+            padding-bottom: 60px;
+        }
+        
+        .imgCont{
+            margin-bottom: 70px;
+            img{
+                max-height: 480px;
+            }
+            .firstLabel{
+                margin-top: 30px;
+            }
+            .labelinfo{
+                padding: 0;
+            }
+            
+            
+        }
+}

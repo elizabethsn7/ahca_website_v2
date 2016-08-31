@@ -1,0 +1,107 @@
+#page1master {
+    
+    #jumbotron {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)), url(/wp-content/themes/AHCA/dist/images/landingpg.jpg);
+        background-attachment: fixed;
+        background-position: 50%;
+        background-size: cover;
+        height: 90vh;
+        #caption{
+            display: block;
+            padding-top: 36vh;
+            margin-left:  auto;
+            margin-right:  auto;
+            max-width: 90%;
+            height: auto;
+        }
+        #arrowImg{
+            opacity: 0.3;
+            position: absolute;
+            bottom: 1%;
+            left: 46%;
+            width: 10%;
+            max-width: 100px;
+        }
+        @media screen and (max-width: $small){
+            background-attachment: initial;
+            height: 70vh;
+            #caption{
+                padding-top: 30vh;
+            }
+        }
+    }
+    #aboutRow{
+        background-color: #79220d;
+        color: #fff;
+        h2 {
+            padding-top: 20px;
+            padding-bottom: 20px;
+            
+        }
+        
+        p {
+            font-size: 21px;
+            margin-left: 35px;
+            
+        }
+        .imgHelper{
+            float: right;
+            width: 40%;
+            min-height: 400px;
+            background: url("/wp-content/themes/AHCA/dist/images/speakers/DSC01968.JPG");
+            background-size: cover;
+            background-position: 50% 50%;
+            
+        }
+        
+        @media screen and (max-width: $medium){
+            h1{
+                margin-top: 0;
+            }
+            .imgHelper{
+                padding-left: 0;
+                float: center;
+                width: 100%;
+            }
+            p{
+                padding: 28px;
+                padding-bottom: 60px;
+                margin-left: 0;
+            }
+        }
+        @media screen and (max-width: $small){
+            .imgHelper{
+                min-height: 300px;
+            }
+            
+        }
+    }
+    .majorAccomplishments {
+        font-size: 18px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        color: #D05B00;
+        h3{
+            color: #D05B00;
+            @media screen and (max-width: $small){
+                margin-left:20px;
+                margin-right:20px;
+            }
+        }
+        .box{
+            padding: 30px;
+            
+            .textbox {
+                margin: 50px 0 10px;
+            }
+        }
+    }
+    #majoraccomplishmentslast{
+        padding-bottom:80px;
+            
+        @media screen and (max-width: $small){
+            margin-bottom: -50px;
+        }
+    }
+
+}
