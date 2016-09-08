@@ -1,7 +1,4 @@
 #page3master{
-    h1{
-        padding-top: 19%;
-    }
     h1,h2{
         font-size: 2.5em;
     }
@@ -16,33 +13,87 @@
     .floatright{
         padding: 0px;
     }
-    #firstrow{
-        color: #005f19;
-    }
-    #thirdrow{
-        color: #005f19;
-    }
-    #secondrow, #fourthrow{
-        background-color: #d0ab83;
-        color: #3f3f4c;
-        padding: 7%;
-        font-size: 20px;
-    }
-    .captionpadding{
-        text-align: center;
+    #firstrow, #thirdrow{
+        background: #005f19;
+        color: #fff;
+        min-height: 300px;
+        max-height: 400px;
         
-        font-size: 20px;
-    }
-    button{
-        font-size: 14px;
-        padding: 7px;
-        margin-top: 20px;
-        background-color: rgba(0,0,0,0.0);
-        border: 2.5px solid white;
-        a{
-            color: white;
+
+        h1, h2{
+            font-family: 'Kaushan Script', cursive;
+            margin-bottom: 40px;
+        }
+        h1, .errorMessage{
+            padding-top: 15%;
+        }
+        .captionpadding{
+            text-align: center;
+            margin-top: -30px;
+            font-size: 20px;
         }
     }
+    #firstrow{
+        -webkit-box-shadow: 0px 4px 4px 1px rgba(0,0,0,0.16);
+        -moz-box-shadow: 0px 4px 4px 1px rgba(0,0,0,0.16);
+        box-shadow: 0px 4px 4px 1px rgba(0,0,0,0.16);
+        
+        ul{
+            list-style: none;
+            font-family: 'Kaushan Script', cursive;
+            width: 100%;
+            padding: 0;
+            text-align: center;
+            li{
+                display: inline-block;
+                width: 80px;
+                font-size: 26px;
+                margin-right: 30px;
+                &:hover{
+                    cursor: pointer;
+                }
+
+            }
+            .active {
+                font-size: 37px;
+                border-bottom: 2px solid #fff;
+            }
+        }
+    }
+
+    #secondrow, #fourthrow{
+        color: #d05b00;
+        padding: 4% 7% 7%;
+        font-size: 20px;
+        line-height: 40px;
+        //award png
+        img{
+            width: 50px;
+            height:50px;
+            margin-bottom: 4%;
+        }
+        button{
+            font-size: 14px;
+            padding: 7px;
+            margin-top: 20px;
+            background-color: rgba(0,0,0,0.0);
+            border: 2.5px solid #d05b00;
+            a{
+                color: #d05b00;
+                &:hover{
+                    text-decoration: none;
+                }
+            }
+            &:hover{
+                background-color: #d05b00;
+                a{
+                    color: white;
+                }
+
+            }
+        }
+    }
+    
     @media only screen and (max-width: 991px){
         h1{
             margin-top: 23%;

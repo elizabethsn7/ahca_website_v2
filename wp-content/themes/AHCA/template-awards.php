@@ -7,134 +7,78 @@
     <div class="row" id="firstrow">
         <div class="col-sm-4 col-md-5 col-lg-6" id="titleBlock">
             <h1 class="text-center">House Beautiful Awards<br>Recipients</h1>
-            <h2 class="text-center">2015</h2>
+            <ul>
+                <?php if (have_rows('house_images_2011')):?>
+                    <li class="yrBtnHa">2011</li>
+                <?php endif;?>
+                <?php if (have_rows('house_images_2013')):?>
+                    <li class="yrBtnHa">2013</li>
+                <?php endif;?>
+                <?php if (have_rows('house_images_2015')):?>
+                    <li class="yrBtnHa">2015</li>
+                <?php endif;?>
+            </ul>
         </div>
     
         <div class="col-sm-8 col-md-7 col-lg-6 floatright">
+            <!-- Wrapper for slides -->
             <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="8000">
-                
-            
-                <!-- Wrapper for slides -->
-                <div class="carousel-inner" role="listbox">
-                    <div class="item active">
-                        <img src="<?php bloginfo('template_directory');?>/dist/images/House 2015/House1.jpg">
-                        <div class="captionpadding">
-                            <caption>4745 S. Kilpatrick Ave</caption>
+                <div class="carousel-inner myCarousel" role="listbox">
+
+                    <!-- slideshow for 2015 -->
+                    <?php if (have_rows('house_images_2015')): 
+                          while (have_rows('house_images_2015')): 
+                          the_row(); 
+                    ?>
+                        <div class="item img2015">
+                            <img class="img-responsive" src="<?php the_sub_field('house_img'); ?>">
                         </div>
-                    </div>
-                
-                    <div class="item">
-                        <img src="<?php bloginfo('template_directory');?>/dist/images/House 2015/House2.jpg">
-                        <div class="captionpadding">
-                            <caption>4609 S. Kedvale Ave</caption>
+                    <?php endwhile; endif; ?>
+
+                    <!-- slideshow for 2013 -->
+                    <?php if (have_rows('house_images_2013')): 
+                          while (have_rows('house_images_2013')): 
+                          the_row(); 
+                    ?>
+                        <div class="item img2013">
+                            <img src="<?php the_sub_field('house_img'); ?>">
                         </div>
-                    </div>
-                
-                    <div class="item">
-                        <img src="<?php bloginfo('template_directory');?>/dist/images/House 2015/House3.jpg">
-                        <div class="captionpadding">
-                            <caption>4511 S. Springfield Ave</caption>
+                    <?php endwhile; endif; ?>
+
+                    <!-- slideshow for 2011 -->
+                    <?php if (have_rows('house_images_2011')): 
+                          while (have_rows('house_images_2011')): 
+                          the_row(); 
+                    ?>
+                        <div class="item img2011 hidden">
+                            <img src="<?php the_sub_field('house_img'); ?>">
                         </div>
-                    </div>
-                
-                    <div class="item">
-                        <img src="<?php bloginfo('template_directory');?>/dist/images/House 2015/House4.jpg">
-                        <div class="captionpadding">
-                            <caption>4615 S. Harding Ave</caption>
-                        </div>
-                    </div>
-                
-                    <div class="item">
-                        <img src="<?php bloginfo('template_directory');?>/dist/images/House 2015/House5.jpg">
-                        <div class="captionpadding">
-                            <caption>4733 S. Kilpatrick Ave</caption>
-                        </div>
-                    </div>
-                    
-                    <div class="item">
-                        <img src="<?php bloginfo('template_directory');?>/dist/images/House 2015/House6.jpg">
-                        <div class="captionpadding">
-                            <caption>5217 S. Kolin Ave</caption>
-                        </div>
-                    </div>
-                    
-                    <div class="item">
-                        <img src="<?php bloginfo('template_directory');?>/dist/images/House 2015/House7.jpg">
-                        <div class="captionpadding">
-                            <caption>5158 S. Tripp Ave</caption>
-                        </div>
-                    </div>
-                    
-                    <div class="item">
-                        <img src="<?php bloginfo('template_directory');?>/dist/images/House 2015/House8.jpg">
-                        <div class="captionpadding">
-                            <caption>5211 S. Kilpatrick Ave</caption>
-                        </div>
-                    </div>
-                    
-                    <div class="item">
-                        <img src="<?php bloginfo('template_directory');?>/dist/images/House 2015/House9.jpg">
-                        <div class="captionpadding">
-                            <caption>5211 S. Kaptrick</caption>
-                        </div>
-                    </div>
-                    
-                    <div class="item">
-                        <img src="<?php bloginfo('template_directory');?>/dist/images/House 2015/House10.jpg">
-                        <div class="captionpadding">
-                            <caption>4715 S. Kilpatrick Ave</caption>
-                        </div>
-                    </div>
-                    
-                    <div class="item">
-                        <img src="<?php bloginfo('template_directory');?>/dist/images/House 2015/House11.jpg">
-                        <div class="captionpadding">
-                            <caption>4923 S. Keating Ave</caption>
-                        </div>
-                    </div>
-                
-                    <div class="item">
-                        <img src="<?php bloginfo('template_directory');?>/dist/images/House 2015/House12.jpg">
-                        <div class="captionpadding">
-                            <caption>4925 S. Keating Ave</caption>
-                        </div>
-                    </div>
-                
-                    <div class="item">
-                        <img src="<?php bloginfo('template_directory');?>/dist/images/House 2015/House13.jpg">
-                        <div class="captionpadding">
-                            <caption>4816 S. Harding Ave</caption>
-                        </div>
-                    </div>
-                
-                    <div class="item">
-                        <img src="<?php bloginfo('template_directory');?>/dist/images/House 2015/House14.jpg">
-                        <div class="captionpadding">
-                            <caption>4628 S. Kilpatrick Ave</caption>
-                        </div>
-                    </div>
-                
-                    <div class="item">
-                        <img src="<?php bloginfo('template_directory');?>/dist/images/House 2015/House15.jpg">
-                        <div class="captionpadding">
-                            <caption>4736 S. Knox Ave</caption>
-                        </div>
-                    </div>
+                    <?php endwhile; endif; ?>
+
+
                 </div>
             </div>
 
+
             <!-- Left and right controls -->
-            <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
+            <?php if (have_rows('house_images_2015') or have_rows('house_images_2013') or have_rows('house_images_2011')): ?>
+                <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            <?php else: ?>
+                <h3 class="text-center errorMessage">No Houses Available</h3>
+            <?php endif; ?>
+
+
         </div>
     </div>
     <div class="row" id="secondrow">
+        <img class="center-block" src="<?php bloginfo('template_directory');?>/dist/images/houseAward.png">
         <h3 class="text-center">ABOUT THE HOUSE BEAUTIFUL AWARDS</h3>
         <p class="text-center">The House Beautiful Awards created in 2011 and first given in that year were established as a biannual event to recognize the outstanding effort of homeowners who maintain their overall property thereby enhancing the quality of life in Archer Heights and increasing the desirability of homes and buildings in our community. 
         </p>
@@ -147,6 +91,7 @@
             <h2 class="text-center">2014</h2>
         </div>
         
+        <!-- slideshow JCA -->
         <div class="col-sm-8 col-md-7 col-lg-6 floatright">
             <div id="myCarousel2" class="carousel slide" data-ride="carousel" data-interval="8000">
                 
@@ -205,17 +150,18 @@
                 <span class="sr-only">Next</span>
             </a>
         </div>
+        <!-- end of JCA slideshow  -->
+
         <div class="col-sm-4 col-md-5 col-lg-6 hidden-xs" id="floatright">
             <h1 class="text-center">Junior Citizens Awards</h1>
             <h2 class="text-center">2014</h2>
         </div>
     </div>
-    <div class="row">
-        <div id="fourthrow">
-            <h3 class="text-center">ABOUT THE JUNIOR CITIZENS AWARDS</h3>
-            <p class="text-center">The Archer Heights Civic Association Junior Citizens Award was established in 1979 to recognize the outstanding school spirit and civic participation of one student of the graduating class at each of the five grammar schools in our community.  This award, consisting of a certificate of merit and cash award of $100, is presented to a student who is actively involved in the greater community of Archer Heights which carries forward to include the schools and churches in our community.  The recipient is selected at the discretion of the school principal and faculty in consultation with the President of the Archer Heights Civic Association.  The awards are presented at the graduation ceremony, luncheon or school assembly.
-            </p>
-        </div>   
-    </div>
+    <div class="row" id="fourthrow">
+        
+        <h3 class="text-center">ABOUT THE JUNIOR CITIZENS AWARDS</h3>
 
+        <p class="text-center">The Archer Heights Civic Association Junior Citizens Award was established in 1979 to recognize the outstanding school spirit and civic participation of one student of the graduating class at each of the five grammar schools in our community.  This award, consisting of a certificate of merit and cash award of $100, is presented to a student who is actively involved in the greater community of Archer Heights which carries forward to include the schools and churches in our community.  The recipient is selected at the discretion of the school principal and faculty in consultation with the President of the Archer Heights Civic Association.  The awards are presented at the graduation ceremony, luncheon or school assembly.
+        </p>
+    </div>
 </div>

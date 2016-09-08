@@ -36,7 +36,15 @@
         });
       },
       finalize: function() {
-        // JavaScript to be fired on all pages, after page specific JS is fired
+        //google analytics 
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-83715289-1', 'auto');
+        ga('send', 'pageview');
+
       }
     },
     // Home page
@@ -57,7 +65,7 @@
     // About us page, note the change from about-us to about_us.
     'group_events_page': {
       init: function() {
-        console.log("it's working");
+        
       },
       finalize: function() {
         // DYNAMIC TAB FEATURE
@@ -96,7 +104,111 @@
             toggleRow(pastRow, upcomingRow);
         });
       }
-    }
+    },
+    // Awards page
+    'awards_page': {
+      init: function() {
+        
+      },
+      finalize: function() {
+        //get year on house awards & get year buttons 
+        var firstYear = $('li.yrBtnHa').last();
+        var yearBtns = $('li.yrBtnHa');
+        //get homes for all years and parent container 
+        var showContainer = $('.carousel-inner');
+        var homes2015 = $('.img2015');
+        var homes2013 = $('.img2013');
+        var homes2011 = $('.img2011');
+        //placeholder for btn with class active and class yrBtnHa
+        var activeYearBtn;
+        //placeholder for div with class item
+        var activeHomeYear;
+        var clickedOnYear;
+
+
+        //add active classes to first image in year collection
+        function addActiveClass(homeYear){
+          homeYear.first().addClass("active");
+        }
+        //hide home
+        function hideHome(home){
+          home.removeClass('item');
+          home.addClass('hidden');
+        }
+        //show home
+        function showHome(home){
+          home.removeClass('hidden');
+          home.addClass('item');
+        }
+        //hide ALL homes 
+        function hideHomes(homeYear){
+          homeYear.each(function(){
+            hideHome($(this));
+          });
+        }
+        //show ALL homes 
+        function showHomes(homeYear){
+          homeYear.each(function(){
+            showHome($(this));
+          });
+        }
+        function toggleBtnYear(newBtn, oldBtn){
+          newBtn.addClass('active');
+          oldBtn.removeClass('active');
+        }
+        function toggleHomeYear(newYear, oldYear){
+          showHomes(newYear);
+          hideHomes(oldYear);
+        }
+
+        //add active class to latest year button
+        firstYear.addClass("active");
+
+        //add active class to first img in year collections 
+        if (showContainer.has('.img2015').length){
+          addActiveClass(homes2015);
+        }
+        if (showContainer.has('.img2013').length){
+          addActiveClass(homes2013);
+        }
+        if (showContainer.has('.img2011').length){
+          addActiveClass(homes2011);
+        }
+
+        //hide all house images except for the latest year houses
+        if(showContainer.has('.img2015').length){
+          hideHomes(homes2013);
+          hideHomes(homes2011);
+        }else if (showContainer.has('.img2013').length){
+          hideHomes(homes2011);
+        }
+
+        //1 ON CLICK: reassign activeYearBtn to new element with classes
+        //2 ON CLICK: remove active class to current Year
+        //3 ON CLICK: add active class to Year selected
+        //4 ON CLICK: reassign activeHomeYear to new element with classes
+        //5 ON CLICK: remove current year homes 
+        //6 ON CLICK: show clicked on homes 
+        //7 ON CLICK: get year of homes that user has clicked on 
+        yearBtns.on('click', function(){
+          //1 
+          activeYearBtn = $('li.yrBtnHa.active');
+          //4
+          activeHomeYear = $('.myCarousel .item');
+          //7
+          clickedOnYear = $(this).text();
+
+          //2 & 3
+          toggleBtnYear($(this), activeYearBtn);
+          //5 & 6
+          toggleHomeYear($('.img'+ clickedOnYear ), activeHomeYear);
+          
+        });
+   
+
+      }
+    },
+
   };
 
   // The routing fires all common scripts, followed by the page specific scripts.
