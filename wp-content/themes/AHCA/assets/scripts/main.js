@@ -62,7 +62,7 @@
         // JavaScript to be fired on the about us page
       }
     },
-    // About us page, note the change from about-us to about_us.
+    // Events Page
     'group_events_page': {
       init: function() {
         
@@ -184,24 +184,32 @@
         }
 
         //1 ON CLICK: reassign activeYearBtn to new element with classes
-        //2 ON CLICK: remove active class to current Year
-        //3 ON CLICK: add active class to Year selected
-        //4 ON CLICK: reassign activeHomeYear to new element with classes
-        //5 ON CLICK: remove current year homes 
-        //6 ON CLICK: show clicked on homes 
-        //7 ON CLICK: get year of homes that user has clicked on 
+        //2 ON CLICK: get text of year that user has clicked on
+        //3 ON CLICK: IF clicked on year is NOT equal to active year, do something 
+        //            ELSE do nothing 
+        //4 ON CLICK: remove active class to current Year
+        //5 ON CLICK: add active class to Year selected
+        //6 ON CLICK: reassign activeHomeYear to new element with classes
+        //7 ON CLICK: remove current year homes 
+        //8 ON CLICK: show clicked on homes 
         yearBtns.on('click', function(){
           //1 
           activeYearBtn = $('li.yrBtnHa.active');
-          //4
-          activeHomeYear = $('.myCarousel .item');
-          //7
+          //2
           clickedOnYear = $(this).text();
+          //3
+          if (activeYearBtn.text() != clickedOnYear){
+            //4 & 5
+            toggleBtnYear($(this), activeYearBtn);
+            //6
+            activeHomeYear = $('.myCarousel .item');
+            //7 & 8
+            toggleHomeYear($('.img'+ clickedOnYear ), activeHomeYear);
+          }
+          
 
-          //2 & 3
-          toggleBtnYear($(this), activeYearBtn);
-          //5 & 6
-          toggleHomeYear($('.img'+ clickedOnYear ), activeHomeYear);
+          
+          
           
         });
    

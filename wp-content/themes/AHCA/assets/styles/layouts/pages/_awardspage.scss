@@ -6,10 +6,7 @@
         padding-top:20px;
         font-size: 20px;
     }
-    img {
-        height: 400px;
-        width: 100%;
-    }
+    
     .floatright{
         padding: 0px;
     }
@@ -25,12 +22,27 @@
             margin-bottom: 40px;
         }
         h1, .errorMessage{
-            padding-top: 15%;
+            margin-top: 120px;
         }
         .captionpadding{
             text-align: center;
             margin-top: -30px;
             font-size: 20px;
+        }
+        img {
+            height: 400px;
+            width: 100%;
+
+        }
+        @media screen and (max-width: $small){
+            max-height: none;
+            .captionpadding{
+                margin-top: -70px;
+            }
+            img{
+                height: initial;
+                max-height: 503px;
+            }
         }
     }
     #firstrow{
@@ -59,8 +71,53 @@
                 border-bottom: 2px solid #fff;
             }
         }
-    }
+        @media screen and (max-width: $medium){
+            h1{
+                margin-top: 60px;
+                line-height: 50px;
+            }
 
+            ul{
+                li{
+                    display: block;
+                    margin: auto;
+                    margin-bottom: 10px;
+                }
+                .active{
+                    margin-bottom: 26px;
+                }
+            }
+        }
+        @media screen and (max-width: $medium){
+            h1{
+                line-height: 30px;
+            }
+
+        }
+        @media screen and (max-width: $small){
+            h1{
+                margin-top: 0;
+                line-height: 50px;
+            }
+            ul{
+                li{
+                    display: inline-block;
+                }
+            }
+
+        }
+    }
+    #thirdrow{
+        @media screen and (max-width: $small){
+            h1{
+                margin-top: 10px;
+                margin-bottom: 0;
+            }
+            h2{
+                margin-bottom: 10px;
+            }
+        }
+    }
     #secondrow, #fourthrow{
         color: #d05b00;
         padding: 4% 7% 7%;
@@ -92,9 +149,21 @@
 
             }
         }
+        
     }
-    
-    @media only screen and (max-width: 991px){
+    #secondrow{
+        @media screen and (max-width: $small){
+            padding-top: 100px;
+            padding-bottom: 130px;
+        }
+    }
+    #fourthrow{
+        @media screen and (max-width: $small){
+            padding-top:100px;
+            padding-bottom: 100px;
+        }
+    }
+    @media only screen and (max-width: $medium){
         h1{
             margin-top: 23%;
             font-size: 2em;
@@ -105,7 +174,7 @@
     
         }
     }
-    @media only screen and (max-width: 767px){
+    @media only screen and (max-width: $small){
         h1{
             margin-top: 10px;
             padding-top: 20px;
