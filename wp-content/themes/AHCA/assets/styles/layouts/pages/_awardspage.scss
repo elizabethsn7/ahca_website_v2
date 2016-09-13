@@ -119,10 +119,11 @@
         }
     }
     #secondrow, #fourthrow{
-        color: #d05b00;
+        color: #a9130c;
         padding: 4% 7% 7%;
         font-size: 20px;
         line-height: 40px;
+        font-family: 'Raleway', sans-serif;
         //award png
         img{
             width: 50px;
@@ -134,15 +135,15 @@
             padding: 7px;
             margin-top: 20px;
             background-color: rgba(0,0,0,0.0);
-            border: 2.5px solid #d05b00;
+            border: 2.5px solid #a9130c;
             a{
-                color: #d05b00;
+                color: #a9130c;
                 &:hover{
                     text-decoration: none;
                 }
             }
             &:hover{
-                background-color: #d05b00;
+                background-color: #a9130c;
                 a{
                     color: white;
                 }
