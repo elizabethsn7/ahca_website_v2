@@ -28,7 +28,7 @@ define( 'WPCACHEHOME', '/home/content/a2pnexwpnas01_data03/92/3514292/html/wp-co
 define('DB_NAME', 'ahci3514292291');
 
 /** MySQL database username */
-define('DB_USER', 'paco_deleon');
+define('DB_USER', 'liz77');
 
 /** MySQL database password */
 define('DB_PASSWORD', '');
