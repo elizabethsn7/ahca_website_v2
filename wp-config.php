@@ -28,13 +28,13 @@ define( 'WPCACHEHOME', '/home/content/a2pnexwpnas01_data03/92/3514292/html/wp-co
 define('DB_NAME', 'ahci3514292291');
 
 /** MySQL database username */
-define('DB_USER', 'liz77');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'root');
 
 /** MySQL hostname */
-define('DB_HOST', '');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');

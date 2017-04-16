@@ -15,15 +15,12 @@
  
     <div id="history">
         <h3 class="text-center title">OUR HISTORY</h3>
-        <h5 class="text-center">COMING SOON...</h5>
-        <!--<div class="row">-->
-        <!--    <div class="col-sm-4"> -->
-        <!--        <h3 class="text-center year">1901-1923</h3>-->
-        <!--    </div>-->
-        <!--    <div class="col-sm-8 rightHis"> -->
-        <!--    <p>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"</p>-->
-        <!--    </div>-->
-        <!--</div>-->
+        <h4 class="text-center">Incorporated in 1938 to promote the general welfare of the residents of the Archer Heights Community</h4>
+        <div class="row">
+           <div class="col-sm-12">
+            <p>The Archer Heights Civic Association (AHCA) is an all volunteer, nonprofit, non-political group of homeowners, renters, businessmen and industry united by the common bond of keeping the neighborhood safe for all residents, protecting the property values of the community and addressing any major issues which affect the quality of life in our neighborhood.  As such, our civic association is very active in matters involving building code compliance, property zoning, commercial/business property redevelopment, beautification projects and crime prevention. To that end we work with the Aldermen of the 14th 22nd and 23rd Wards.  We also work with the 8th Police District and the Chicago Alternative Policing Strategy (CAPS) to publicize procedures and programs of crime prevention, homeowner, renter and business safety, and also personal safety.  Archer Heights is divided between Police Beats 821 and 815 and all of our members are urged to attend CAPS meetings to become familiar with the beat officers who actually patrol our community.</p>
+            </div>
+        </div>
 
         <!--<div class="row dot">-->
         <!--    <div class="col-sm-2 col-sm-offset-5 hidden-xs">-->

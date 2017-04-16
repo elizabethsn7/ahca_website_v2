@@ -25,6 +25,7 @@
               <li><a href="/speakers-page">SPEAKERS</a></li>
             </ul>
           </li>
+          <li><a href="recentnews-page">RECENT NEWS</a></li>
           <li><a href="/contact-page">CONTACT US</a></li> 
         </ul>
         <ul class="nav navbar-nav navbar-right" id="memberButtonUl">
