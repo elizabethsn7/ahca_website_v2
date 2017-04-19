@@ -286,3 +286,27 @@ gulp.task('wiredep', function() {
 gulp.task('default', ['clean'], function() {
   gulp.start('build');
 });
+/* !!!! CONFIGURE !!!!
+================================ */
+var options = {};
+options.user = 'root';
+options.port = 8888;
+options.site_path = '/Users/ParkerandEvan/Sites/ahca_website_v2'; // something like /Users/username/sites/mymampsite  
+ 
+// Modules 
+var gulp = require('gulp');
+var mamp = require('gulp-mamp');
+ 
+gulp.task('config', function(cb){
+    mamp(options, 'config', cb);
+});
+ 
+gulp.task('start', function(cb){
+    mamp(options, 'start', cb);
+});
+ 
+gulp.task('stop', function(cb){
+    mamp(options, 'stop', cb);
+});
+ 
+gulp.task('mamp', ['config', 'start']);

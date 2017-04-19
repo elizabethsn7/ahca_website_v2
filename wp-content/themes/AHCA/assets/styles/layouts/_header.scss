@@ -31,9 +31,10 @@ header{
             #logoContainer{
                 padding-left: 20px;
                 #logo{
-                    width: 150px;
+                    width: 145px;
                     position: absolute;
                     z-index: 3;
+                    margin-top: -33px;
                 }
                 @media screen and (max-width: $medium){
         			padding-left: 20px;
