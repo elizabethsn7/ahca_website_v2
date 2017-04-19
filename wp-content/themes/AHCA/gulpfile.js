@@ -291,7 +291,7 @@ gulp.task('default', ['clean'], function() {
 var options = {};
 options.user = 'root';
 options.port = 8888;
-options.site_path = '/Users/ParkerandEvan/Sites/ahca_website_v2'; // something like /Users/username/sites/mymampsite  
+options.site_path = '/Users/elizabethskipp/Sites/ahca_website_v2'; // something like /Users/username/sites/mymampsite  
  
 // Modules 
 var gulp = require('gulp');
