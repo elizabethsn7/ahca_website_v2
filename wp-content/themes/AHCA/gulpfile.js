@@ -288,25 +288,25 @@ gulp.task('default', ['clean'], function() {
 });
 /* !!!! CONFIGURE !!!!
 ================================ */
-var options = {};
-options.user = 'root';
-options.port = 8888;
-options.site_path = '/Users/elizabethskipp/Sites/ahca_website_v2'; // something like /Users/username/sites/mymampsite  
+// var options = {};
+// options.user = 'root';
+// options.port = 8888;
+// options.site_path = '/Users/elizabethskipp/Sites/ahca_website_v2'; // something like /Users/username/sites/mymampsite  
  
-// Modules 
-var gulp = require('gulp');
-var mamp = require('gulp-mamp');
+// // Modules 
+// var gulp = require('gulp');
+// var mamp = require('gulp-mamp');
  
-gulp.task('config', function(cb){
-    mamp(options, 'config', cb);
-});
+// gulp.task('config', function(cb){
+//     mamp(options, 'config', cb);
+// });
  
-gulp.task('start', function(cb){
-    mamp(options, 'start', cb);
-});
+// gulp.task('start', function(cb){
+//     mamp(options, 'start', cb);
+// });
  
-gulp.task('stop', function(cb){
-    mamp(options, 'stop', cb);
-});
+// gulp.task('stop', function(cb){
+//     mamp(options, 'stop', cb);
+// });
  
-gulp.task('mamp', ['config', 'start']);
+// gulp.task('mamp', ['config', 'start']);
