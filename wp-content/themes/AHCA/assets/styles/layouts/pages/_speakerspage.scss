@@ -1,0 +1,59 @@
+#page8master{
+    background: #454654;
+    padding-top: 40px;
+    padding-bottom: 80px;
+    color: white;
+    #title{
+        margin-bottom: 80px;
+        
+    }
+    .tempFix{
+        margin-bottom: 80px;
+    }
+    .infoRow{
+        background-color: #d05b00;
+        
+        
+        img{
+            width: 40%;
+            float: right;
+            padding-left: 50px;
+        }
+        // h2{
+        //     margin-top: 60px;
+        //     margin-bottom: 60px;
+        //     padding-left: 50px;
+        // }
+        p{
+            font-size: 17px;
+            padding-left: 50px;
+            padding-bottom: 40px;
+            padding-right: 50px;
+            margin-top: 60px;
+        }
+        @media screen and (max-width: $medium){
+            h2{
+                font-size: 20px;
+                margin-top: 40px;
+                margin-bottom: 40px;
+            }
+        }
+        @media screen and (max-width: $small){
+            img{
+                float: none;
+                width: 100%;
+                padding-left: 0;
+            }
+            h2{
+                padding-left: 0;
+            }
+        }
+        
+    }
+    @media screen and (max-width: $small){
+        #title{
+            font-size: 20px;
+        }
+    }
+    
+}

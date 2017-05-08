@@ -1,0 +1,98 @@
+#page7master{
+    background: #fff9dc;
+    color: #555954;
+    #title{
+        margin: 0;
+        padding: 30px 0;
+        @media screen and (max-width: $small){
+            padding-top: 64px;
+            padding-bottom: 0;
+        }
+        @media screen and (max-width: $xsmall){
+            font-size: 23px;
+        }
+    }
+    
+    .allRows{
+        padding: 10px 50px 50px;
+        h3{
+            margin: 30px 0;
+        }
+        p{
+            font-size: 22px;
+        }
+        li{
+            font-size: 18px;
+        }
+        @media screen and (max-width: $medium){
+            padding: 10px 30px 40px;
+        }
+        @media screen and (max-width: $small){
+            padding: 10px 30px 40px;
+        }
+        @media screen and (max-width: $xsmall){
+            h3{
+                font-size: 20px;
+            }
+            p{
+                font-size: 16px;
+            }
+            padding: 10px 10px 40px;
+        }
+        button{
+            border: none;
+            outline: none;
+        }
+    }
+    
+    #overviewRow{
+    }
+    #requireRow{
+        @media screen and (max-width: $xsmall){
+            ul{
+                padding-left: 20px;
+            }
+        }
+        
+    }
+    #aboutRow{
+        button{
+            padding: 10px 0;
+            margin-top: 40px;
+            width: 10%;
+            font-size: 13px;
+            border-radius: 30px;
+            background: #ff7001;
+            border: 3px solid #d05b00;
+            color: #fff;
+            @media screen and (max-width: $small){
+                width: 90%;
+            }
+        }
+    }
+    #submitRow{
+        button{
+            padding: 20px 0;
+            margin-top: 40px;
+            width: 50%;
+            font-size: 20px;
+            border-radius: 30px;
+            background: #ff7001;
+            border: 3px solid #d05b00;
+            color: #fff;
+            &:hover{
+                background: #d05b00;
+                border: 3px solid #d05b00;
+            }
+            @media screen and (max-width: $small){
+                width: 90%;
+            }
+            a{
+                color: #fff;
+            }
+        }
+    }
+    
+    
+    
+}

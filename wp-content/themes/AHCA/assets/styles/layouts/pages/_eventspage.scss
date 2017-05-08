@@ -1,0 +1,101 @@
+#page5Master{
+    padding-bottom: 110px;
+    background: #dee5e5;
+    
+    .container{
+        padding: 0;
+    }
+    #tabRow{
+        padding-top: 30px;
+        #upcomingBtn{
+            padding-bottom: 20px;
+            border-top-right-radius: 10px;
+            border-top-left-radius: 10px;
+            display: inline-block;
+            width: 20%;
+        }
+        #pastBtn{
+            padding-bottom: 20px;
+            margin-right: 50px;
+            border-top-right-radius: 10px;
+            border-top-left-radius: 10px;
+            display: inline-block;
+            width: 20%;
+        }
+        .activeBtn{
+            background: #005f19;
+            color: #fff;
+            padding: 20px 0;
+        }
+        .deactiveBtn{
+            background: #00340e;
+            color: #fff;
+            
+        }
+        @media screen and (max-width: $medium){
+            h3{
+                padding-top: 0;
+                margin-bottom: 0;
+                font-size: 12px;
+            }
+            #pastBtn, #upcomingBtn{
+                width: 30%;
+            }
+        }
+        @media screen and (max-width: $small){
+            padding-top: 0;
+            #pastBtn, #upcomingBtn{
+                margin-top: 30px;
+                width: 40%;
+                h4{
+                    font-size: 13px;
+                }
+                
+            }
+            #pastBtn{
+                margin-right: 10%;
+            }
+        }
+        @media screen and (max-width: $xsmall){
+            h3{
+                font-size: 10px;
+            }
+        }
+    }
+    #eventsContainer{
+        border-radius: 10px;
+        background: #005f19;
+        color: white;
+        padding: 0;
+        padding-bottom: 80px;
+        min-height: 250px;
+        .eventsRow{
+            padding: 60px 30px 30px 30px;
+            @media screen and (max-width: $small){
+                padding-top: 0;
+                padding-bottom: 0;
+                .eventPost{
+                    padding-bottom: 50px;
+                    img{
+                        width: 100%;
+                    }
+                }
+            }
+        }
+        .deactiveRow{
+            display: none;
+        }
+        .noEvents{
+            margin: 0;
+            padding-top: 100px;
+        }
+        @media screen and (max-width: $small){
+            padding-top: 30px;
+            padding-bottom: 30px;
+            border-radius: 0;
+        }
+        
+    }
+    
+    
+}
