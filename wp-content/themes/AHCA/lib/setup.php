@@ -103,4 +103,8 @@ function assets() {
 
   wp_enqueue_script('sage/js', Assets\asset_path('scripts/main.js'), ['jquery'], null, true);
 }
+<<<<<<< HEAD
 add_action('wp_enqueue_scripts', __NAMESPACE__ . '\\assets', 100);
+=======
+add_action('wp_enqueue_scripts', __NAMESPACE__ . '\\assets', 100);
+>>>>>>> c52efe61a11c8ce3798b89bbd0957db9fd12048b

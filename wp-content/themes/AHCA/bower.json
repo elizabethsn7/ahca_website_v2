@@ -7,7 +7,12 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "bootstrap-sass": "3.3.6"
+=======
+    "bootstrap-sass": "3.3.6",
+    "jquery": "^3.2.1"
+>>>>>>> c52efe61a11c8ce3798b89bbd0957db9fd12048b
   },
   "overrides": {
     "bootstrap-sass": {

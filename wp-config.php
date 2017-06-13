@@ -28,6 +28,7 @@ define( 'WPCACHEHOME', '/home/content/a2pnexwpnas01_data03/92/3514292/html/wp-co
 define('DB_NAME', 'ahci3514292291');
 
 /** MySQL database username */
+<<<<<<< HEAD
 define('DB_USER', 'root');     //******* CHANGE TO THIS FOR DEPLOYMENT -> ahci3514292291
 
 /** MySQL database password */
@@ -35,6 +36,15 @@ define('DB_PASSWORD', 'root');//******* CHANGE TO THIS FOR DEPLOYMENT -> v}*3WHD
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');//******* CHANGE TO THIS FOR DEPLOYMENT -> ahci3514292291.db.3514292.hostedresource.com:3306
+=======
+define('DB_USER', 'ahci3514292291'); //
+
+/** MySQL database password */
+define('DB_PASSWORD', 'v}*3WHDJ*Zz');//
+
+/** MySQL hostname */
+define('DB_HOST', 'ahci3514292291.db.3514292.hostedresource.com:3306'); //
+>>>>>>> c52efe61a11c8ce3798b89bbd0957db9fd12048b
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
