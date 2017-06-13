@@ -1,3 +1,7 @@
+.navbar-fixed-top {
+  background: white;
+  padding-bottom: 5px;
+}
 header{
     height: 11vh;
     min-height: 90px;
@@ -98,7 +102,7 @@ header{
             text-decoration: none;
         }
         #memberButtonUl{
-            padding-right: 5%;
+            padding-right: 2%;
             
             button{
                 padding: 5px 10px;

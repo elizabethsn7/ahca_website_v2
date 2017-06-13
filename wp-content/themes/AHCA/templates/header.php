@@ -1,5 +1,5 @@
 <header class="banner">
-  <nav class="navbar">
+  <nav class="navbar navbar-fixed-top">
     <div class="container-fluid">
       <img id="siteTitle" src="<?php bloginfo('template_directory');?>/dist/images/siteTitle.png">
       <div class="navbar-header">
@@ -12,6 +12,7 @@
           </a>
         </div>
       </div>
+
       <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav ulMenu">
           <li><a href="/">HOME</a></li>
@@ -35,3 +36,5 @@
     </div>
   </nav>
 </header>
+
+
