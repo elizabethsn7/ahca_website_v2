@@ -6,17 +6,11 @@
 <div id="page2">
     <div id="history">
         <h1 class="text-center title">OUR HISTORY</h1>
-<<<<<<< HEAD
         
         <div class="row">
           <div class="col-sm-10 comm infoLeft">
             
         <h3 class="text-center">Incorporated in 1938 to promote the general welfare of the residents of the Archer Heights Community</h3>
-=======
-        <h3 class="text-center">Incorporated in 1938 to promote the general welfare of the residents of the Archer Heights Community</h3>
-        <div class="row">
-          <div class="col-sm-10 comm infoLeft">
->>>>>>> c52efe61a11c8ce3798b89bbd0957db9fd12048b
                 <p>The Archer Heights Civic Association (AHCA) is an all volunteer, nonprofit, non-political group of homeowners, renters, businessmen and industry united by the common bond of keeping the neighborhood safe for all residents, protecting the property values of the community and addressing any major issues which affect the quality of life in our neighborhood.  As such, our civic association is very active in matters involving building code compliance, property zoning, commercial/business property redevelopment, beautification projects and crime prevention. To that end we work with the Aldermen of the 14th 22nd and 23rd Wards.  We also work with the 8th Police District and the Chicago Alternative Policing Strategy (CAPS) to publicize procedures and programs of crime prevention, homeowner, renter and business safety, and also personal safety.  Archer Heights is divided between Police Beats 821 and 815 and all of our members are urged to attend CAPS meetings to become familiar with the beat officers who actually patrol our community.</p>
 
                 <p>Our membership currently stands at 800+ addresses which consist of 750 families &amp single persons and 50 businesses/industry.  We are a very pro-business community group that works with our elected officials to welcome new businesses and industry into the community that will have a positive impact on the neighborhood. With the exception of July and August our civic association meets once each month on the second Wednesday for a general membership meeting at the UNO Veterans Memorial Campus School located at 47th &amp Kildare Avenue.  All meetings begin at 7:30 PM sharp and all community residents, renters/business owners are always welcome to attend.</p>

@@ -3,11 +3,7 @@
  * Template Name: Committees Page
  */
 ?>
-<<<<<<< HEAD
 <div id="page4" class="comtainer-fluid">
-=======
-<div id="page4" class="container-fluid">
->>>>>>> c52efe61a11c8ce3798b89bbd0957db9fd12048b
     <div class="row">
         <div class="col-sm-10 comm infoLeft">
             <h1>Daytime Graffiti Team Committee</h1>
