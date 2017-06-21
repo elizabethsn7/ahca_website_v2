@@ -2,8 +2,13 @@
 	background: #e5741d;
 }
 
-p {
+ p {
 	margin: 0px;
+	
+}
+
+.lead {
+	font-size: 20px;	
 }
 .impEvents {
 	color: #ffffff;
@@ -43,9 +48,7 @@ h2 {
 
 .secondRow {
 	color: #3f3f4c;
-    margin: 16px -5px 5px 8px;
 	padding: 10px;
-	float: right;
 	@media (max-width: 600px) {
 		float: none;
 	}
