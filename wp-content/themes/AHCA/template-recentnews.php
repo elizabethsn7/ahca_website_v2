@@ -24,38 +24,38 @@
           <p class="lead">The info here is your latest blog post. Once you add a new post it will be moved down to where the lorem ipsum is. The info here is your latest blog post. Once you add a new post it will be moved down to where the lorem ipsum is. The info here is your latest blog post. Once you add a new post it will be moved down to where the lorem ipsum is.</p>
       </div>
     </div>
-  </div>
 
-  <div class="row">
+    <div class="row">
 
-    <div class="col-sm-4 secondRow">
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title">Lorem Ipsum</h3>
-        </div>
-        <div class="panel-body">
-          This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post.
+      <div class="col-sm-4 secondRow">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">Lorem Ipsum</h3>
+          </div>
+          <div class="panel-body">
+            This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post.
+          </div>
         </div>
       </div>
-    </div>
 
-    <div class="col-sm-4 secondRow">
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title">Lorem Ipsum</h3>
-        </div>
-        <div class="panel-body">
-          This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post.
+      <div class="col-sm-4 secondRow">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">Lorem Ipsum</h3>
+          </div>
+          <div class="panel-body">
+            This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post.
+          </div>
         </div>
       </div>
-    </div>
 
-    <div class="col-sm-4 secondRow">
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title">Lorem Ipsum</h3>
-        </div>
-        <div class="panel-body">This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post.
+      <div class="col-sm-4 secondRow">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">Lorem Ipsum</h3>
+          </div>
+          <div class="panel-body">This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post. This is your previous blog post.
+          </div>
         </div>
       </div>
     </div>

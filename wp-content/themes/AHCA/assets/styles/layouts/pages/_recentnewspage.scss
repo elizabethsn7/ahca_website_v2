@@ -1,23 +1,18 @@
 #newsPage {
 	background: #e5741d;
 }
-
  p {
 	margin: 0px;
-	
-}
 
+}
 .lead {
-	font-size: 20px;	
+	font-size: 20px;
 }
 .impEvents {
 	color: #ffffff;
 
 }
 
-.firstRow {
-	background-color: white;
-}
 .img-responsive {
 	margin-top: 25px;
 }
@@ -27,12 +22,6 @@
 	@media (max-width: 767px) {
 		padding-left: 10px;
 		padding-right: 10px;
-	}
-}
-
-.firstRow {
-	@media (max-width: 1033px) {
-		margin-top: 25px;
 	}
 }
 
