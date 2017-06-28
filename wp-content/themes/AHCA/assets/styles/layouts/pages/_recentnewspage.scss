@@ -23,6 +23,10 @@
 	}
 	.impEvents {
 		color: #ffffff;
+		overflow-y: scroll;
+		height: 300px;
+		border: solid 1px white;
+		padding: 10px;
 	}
 	.img-responsive {
 		margin-top: 25px;

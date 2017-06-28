@@ -3,7 +3,8 @@
   Template Name: Recent News Page
   */
   $all_args = array(
-    'order' => 'DESC'
+    'order' => 'DESC',
+    'numberposts' => -1,
   );
   $latest_args = array(
     'order' => 'DESC',
@@ -17,7 +18,7 @@
   <div class="container">
     <div class="row" id="firstRow">
       <div class="col-xs-12 col-sm-2 impEvents hidden-xs">
-        <h3>Important Events</h3>
+        <h3>Important News</h3>
         <ul>
         <?php
           if ($all_posts):
