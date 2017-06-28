@@ -6,6 +6,17 @@
 	h2 {
 		margin-top: 0px;
 	}
+	ul{
+		padding-left: 0;
+	}
+	#firstRow{
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
+	#secondRow{
+		display: flex;
+		justify-content: center;
+	}
 	.lead {
 		font-size: 20px;
 	}
@@ -22,6 +33,11 @@
 	 		padding-left: 10px;
 	 		padding-right: 10px;
 	 	}
+	}
+	.panel{
+		margin: 10px 5px 40px;
+		max-width: 50%;
+		min-width: 33%;
 	}
 	.panel-default>.panel-heading {
 		color: #ffffff;
