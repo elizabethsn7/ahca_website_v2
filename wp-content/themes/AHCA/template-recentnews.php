@@ -3,11 +3,9 @@
   Template Name: Recent News Page
   */
   $all_args = array(
-    'category' => 'recent-news',
     'order' => 'DESC'
   );
   $latest_args = array(
-    'category' => 'recent-news',
     'order' => 'DESC',
     'numberposts' => 1,
   );
