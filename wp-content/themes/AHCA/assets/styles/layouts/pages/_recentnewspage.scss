@@ -10,8 +10,11 @@
 		padding-left: 0;
 	}
 	#firstRow{
-		margin-top: 70px;
-		margin-bottom: 80px;
+		border: solid 2px #000000;
+		margin-top: 20px;
+		margin-bottom: 10px;
+		display: flex;
+		background-color: white;
 	}
 	#secondRow{
 		display: flex;
@@ -20,12 +23,12 @@
 	}
 	.lead {
 		font-size: 20px;
+		margin-bottom: 0px;
 	}
 	.impEvents {
-		color: #ffffff;
 		overflow-y: scroll;
 		height: 300px;
-		border: solid 1px white;
+		border-right: solid 2px #000000;
 		padding: 10px;
 	}
 	.img-responsive {
@@ -50,15 +53,6 @@
 	  border-color: transparent;
 	 }
 }
-
-
-
-
-
-
-
-
-
 
 .secondRow {
 	color: #3f3f4c;
